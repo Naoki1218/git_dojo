@@ -3,10 +3,10 @@
 4 hogehoge
 3 コンフリクトするのは怖い hoge
 5 hoge
-6 hogehoge
+6 hoge
 7 hoge
 9 hoge
-8 hogehogehogehoge
+8 hogehogehoge
 10 hoge
 11 hogehoge
 12 hoge
