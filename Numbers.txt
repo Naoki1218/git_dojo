@@ -6,7 +6,7 @@
 a5 hoge
 6 henkou6
 7 henkou7
-9 hoge
+9 henkou8
 8 hoge
 =======
 5 hoge
