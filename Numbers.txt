@@ -5,7 +5,7 @@
 5 unko
 6 unti
 7 kuso
-8 hoge
+8 dai
 9 hoge
 10 hoge
 11 hoge
