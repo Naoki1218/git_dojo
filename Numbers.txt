@@ -5,7 +5,7 @@
 <<<<<<< HEAD
 a5 hoge
 6 henkou6
-7 hoge
+7 henkou7
 9 hoge
 8 hoge
 =======
